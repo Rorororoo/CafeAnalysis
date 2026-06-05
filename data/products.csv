@@ -1,0 +1,21 @@
+product_id,name,category,price
+1,Espresso,Coffee,2.5
+2,Americano,Coffee,3.0
+3,Cappuccino,Coffee,4.0
+4,Latte,Coffee,4.5
+5,Flat White,Coffee,4.0
+6,Mocha,Coffee,4.75
+7,Cold Brew,Coffee,4.5
+8,Green Tea,Tea,2.75
+9,Chai Latte,Tea,4.0
+10,Herbal Infusion,Tea,2.75
+11,Fresh OJ,Cold Drink,3.5
+12,Smoothie,Cold Drink,5.0
+13,Croissant,Pastry,3.0
+14,Blueberry Muffin,Pastry,3.25
+15,Banana Bread,Pastry,3.5
+16,Avocado Toast,Food,8.5
+17,Bagel & Cream Cheese,Food,5.5
+18,Granola Bowl,Food,7.0
+19,Club Sandwich,Food,9.0
+20,Caesar Salad,Food,8.0
