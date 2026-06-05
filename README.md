@@ -6,7 +6,7 @@ A data analysis project that examines 2,000+ café point-of-sale transactions to
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 | Item | Detail |
 |---|---|
@@ -22,7 +22,7 @@ The analysis answers three business questions:
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 cafe-analysis/
@@ -41,7 +41,6 @@ cafe-analysis/
 │   └── build_report.js        # Generates the Word (.docx) report
 │
 ├── reports/
-│   ├── Cafe_Performance_Analysis_Report.docx
 │   ├── peak_hours_traffic.png
 │   ├── peak_hours_revenue.png
 │   ├── category_revenue.png
@@ -54,7 +53,7 @@ cafe-analysis/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone & Install
 
@@ -97,7 +96,7 @@ Regenerates `reports/Cafe_Performance_Analysis_Report.docx`.
 
 ---
 
-## 🔍 SQL Queries Included
+##  SQL Queries Included
 
 | # | Query | Purpose |
 |---|---|---|
@@ -117,12 +116,12 @@ All queries are in `sql/02_analysis_queries.sql` and can be run independently in
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
-### ⏰ Peak Hours
+###  Peak Hours
 The **8–10 AM morning rush** generates **34% of all daily transactions**. A secondary lunchtime peak occurs at 12–13 PM (~22% of traffic). After 15:00, footfall drops steeply.
 
-### 🏆 Top Products
+###  Top Products
 | Rank | Product | Units | Revenue |
 |---|---|---|---|
 | 1 | Latte | 408 | $1,836 |
@@ -133,7 +132,7 @@ The **8–10 AM morning rush** generates **34% of all daily transactions**. A se
 
 **Avocado Toast** ranks 8th by units but 2nd by revenue — the highest revenue-per-unit of any item.
 
-### 📈 Weekend Revenue Opportunity
+###  Weekend Revenue Opportunity
 | Day Type | Transactions | Total Revenue | Avg Spend |
 |---|---|---|---|
 | Weekday | 1,589 | $12,642 | $7.96 |
@@ -141,14 +140,14 @@ The **8–10 AM morning rush** generates **34% of all daily transactions**. A se
 
 Weekend visitors spend **~27% more per transaction** and buy **2.25 items vs 1.77 on weekdays**. Focused weekend programming (brunch menus, combos, extended hours) could materially increase annual revenue.
 
-### 💳 Payment Mix
+###  Payment Mix
 - Card: 59% of transactions
 - Cash: 25%
 - Mobile Pay: 16% (growing)
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 1. **Staff up for 07:45 AM** — the 8–10 window drives a third of daily revenue
 2. **Introduce a Morning Combo** (coffee + pastry) to increase basket size
@@ -158,7 +157,7 @@ Weekend visitors spend **~27% more per transaction** and buy **2.25 items vs 1.7
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Use |
 |---|---|
